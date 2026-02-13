@@ -1,16 +1,23 @@
-## Hi there 👋
+## 이수현  👋
 
-<!--
-**soohyun1904/soohyun1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<table>
+<tr>
+  <td>
 
-Here are some ideas to get you started:
+<b>활동 이력</b>  
+ 
+| 기간 | 활동명 | 역할/포지션 |
+|:--:|:--:|:--:|
+|2026.02 ~| 우아한테크코스 8기 | 백엔드 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>수상 내역</b>  
+<div align="center">
+
+| 연도 | 수상명 | 주관기관 |
+|:--:|:--:|:--:|
+|2025| 컴퓨터공학과 학술제 최우수상 (1st) | 세종대학교 |
+|2025| 전공심화공동체 우수상 (2nd) | 세종대학교 |
+|2025| 창의설계경진대회 우수상 (4rd) | 세종대학교 |
+|2025| KB IT'S YOUR LIFE 장려상 | KB국민은행 |
+<div>
